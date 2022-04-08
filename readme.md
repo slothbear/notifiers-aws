@@ -10,3 +10,15 @@ this pattern:
 1. Reformat information for brevity.
 1. Send notification via SMS.
 
+## rondiro
+
+A base framework for making a YMCA pool reservation 3 days in the future.
+*This technique was abandoned because of timing. The reservation had to be
+made within 1 second of the top of the hour – and I couldn't find an event
+with that precision.*
+
+The production version ran on a local system. A cron job woke up one minute
+before the hour, then waited until exactly the hour to execute.
+
+**rondiro**: Esperanto for lap. Like swimming laps.
+
