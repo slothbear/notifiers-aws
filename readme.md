@@ -22,3 +22,19 @@ before the hour, then waited until exactly the hour to execute.
 
 **rondiro**: Esperanto for lap. Like swimming laps.
 
+## atenduloj
+
+In [RSW Game](http://rswgame.com/en/welcome), turns
+run on a weekly schedule *or* when all players have submitted orders.
+Especially early in the game, the turns run pretty often. I also don't like
+being the last person to submit orders. In later stages of the game, it can
+help with scheduleing to know how many people have not yet submitted — an
+approximation of how soon the turn might run.
+
+atenduloj queries the RSW Game server and sends me a message with the number
+of players the game is waiting on. That number may or may not include me, but
+I didn't add logic for that. I know.
+
+**atendulo**: Esperanto for waiting people.
+
+
