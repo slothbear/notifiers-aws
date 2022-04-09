@@ -17,11 +17,16 @@ this pattern:
 
 In the game [Personal Space](https://www.pnparcade.com/products/personal-space),
 a player may trade resources at the Squid Exchange on the Commerce Moon.
-The resources that can be traded and their prices change each day. This
+
+Normally players scan a QR code that takes them to a web page displaying today's
+rates, for instance: https://personalspace.buttonshy.com/?m=a76qafcz2ypz&a=qr75p135izuf
+
+The resources that can be traded and their prices change each day. 
+Instead of manually scanning the QR code each day, this
 notifier sends today's rates from the Personal Space server via SMS.
 
 sample message: 1🪱 2🍐 1🐚 🛑5 🗓9 
-partial meaning: on day 9, fruit can be traded for ¤2, limited to 5 items.
+> on day 9, fruit can be traded for ¤2, limited to 5 items.
 
 **loligo** is Esperanto for squid. Via loligo, a genus of squid.
 
