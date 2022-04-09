@@ -10,6 +10,19 @@ this pattern:
 1. Reformat information for brevity.
 1. Send notification via SMS.
 
+## loligo
+
+In the game [Personal Space](),
+a player may trade resources at the Squid Exchange on the Commerce Moon.
+The resources that can be traded and their prices change each day. This
+notifier sends today's rates from the Personal Space server via SMS.
+
+sample message: 1🪱 2🍐 1🐚 🛑5 🗓9 
+partial meaning: on day 9, fruit can be traded for ¤2, limited to 5 items.
+
+**loligo** is Esperanto for squid. Via loligo, a genus of squid.
+
+
 ## rondiro
 
 A base framework for making a YMCA pool reservation 3 days in the future.
