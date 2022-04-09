@@ -12,7 +12,7 @@ this pattern:
 
 ## loligo
 
-In the game [Personal Space](),
+In the game [Personal Space](https://www.pnparcade.com/products/personal-space),
 a player may trade resources at the Squid Exchange on the Commerce Moon.
 The resources that can be traded and their prices change each day. This
 notifier sends today's rates from the Personal Space server via SMS.
