@@ -20,7 +20,7 @@ with that precision.*
 The production version ran on a local system. A cron job woke up one minute
 before the hour, then waited until exactly the hour to execute.
 
-**rondiro**: Esperanto for lap. Like swimming laps.
+**rondiro** means lap in Esperanto. Like swimming laps.
 
 ## atenduloj
 
@@ -35,6 +35,6 @@ atenduloj queries the RSW Game server and sends me a message with the number
 of players the game is waiting on. That number may or may not include me, but
 I didn't add logic for that. I know.
 
-**atendulo**: Esperanto for waiting people.
+**atendulo** means waiting people in Esperanto.
 
 
