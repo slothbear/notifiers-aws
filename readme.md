@@ -10,6 +10,7 @@ this pattern:
 1. Reformat information for brevity.
 1. Send notification via SMS.
 
+
 ## loligo
 
 **STATUS**: operational, last tested 9-April-2022
@@ -24,20 +25,6 @@ partial meaning: on day 9, fruit can be traded for ¤2, limited to 5 items.
 
 **loligo** is Esperanto for squid. Via loligo, a genus of squid.
 
-
-## rondiro
-
-**STATUS**: obsolete, reservation system deactivated
-
-A base framework for making a YMCA pool reservation 3 days in the future.
-*This technique was abandoned because of timing. The reservation had to be
-made within 1 second of the top of the hour – and I couldn't find an event
-with that precision.*
-
-The production version ran on a local system. A cron job woke up one minute
-before the hour, then waited until exactly the hour to execute.
-
-**rondiro** means lap in Esperanto. Like swimming laps.
 
 ## atenduloj
 
@@ -56,4 +43,18 @@ I didn't add logic for that. I know.
 
 **atendulo** means waiting people in Esperanto.
 
+
+## rondiro
+
+**STATUS**: obsolete, reservation system deactivated
+
+A base framework for making a YMCA pool reservation 3 days in the future.
+*This technique was abandoned because of timing. The reservation had to be
+made within 1 second of the top of the hour – and I couldn't find an event
+with that precision.*
+
+The production version ran on a local system. A cron job woke up one minute
+before the hour, then waited until exactly the hour to execute.
+
+**rondiro** means lap in Esperanto. Like swimming laps.
 
