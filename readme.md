@@ -12,6 +12,8 @@ this pattern:
 
 ## loligo
 
+**STATUS**: operational, last tested 9-April-2022
+
 In the game [Personal Space](https://www.pnparcade.com/products/personal-space),
 a player may trade resources at the Squid Exchange on the Commerce Moon.
 The resources that can be traded and their prices change each day. This
@@ -25,6 +27,8 @@ partial meaning: on day 9, fruit can be traded for ¤2, limited to 5 items.
 
 ## rondiro
 
+**STATUS**: obsolete, reservation system deactivated
+
 A base framework for making a YMCA pool reservation 3 days in the future.
 *This technique was abandoned because of timing. The reservation had to be
 made within 1 second of the top of the hour – and I couldn't find an event
@@ -36,6 +40,8 @@ before the hour, then waited until exactly the hour to execute.
 **rondiro** means lap in Esperanto. Like swimming laps.
 
 ## atenduloj
+
+**STATUS**: operational, last tested 9-April-2022
 
 In [RSW Game](http://rswgame.com/en/welcome), turns
 run on a weekly schedule *or* when all players have submitted orders.
